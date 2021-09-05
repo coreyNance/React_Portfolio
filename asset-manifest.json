@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.16f1a9ad.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.fc8ded1e.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.fc8ded1e.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.872b2f22.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.872b2f22.js.map",
+    "static/js/2.ff7f7962.chunk.js": "/react-portfolio/static/js/2.ff7f7962.chunk.js",
+    "static/js/2.ff7f7962.chunk.js.map": "/react-portfolio/static/js/2.ff7f7962.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.16f1a9ad.chunk.css.map": "/react-portfolio/static/css/main.16f1a9ad.chunk.css.map",
+    "static/js/2.ff7f7962.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.ff7f7962.chunk.js.LICENSE.txt",
+    "static/media/CPlusPlus.0eb8aa46.png": "/react-portfolio/static/media/CPlusPlus.0eb8aa46.png",
+    "static/media/DailyPlannerBig.39db0d68.png": "/react-portfolio/static/media/DailyPlannerBig.39db0d68.png",
+    "static/media/FindMeFoodBig.9fedb7d6.png": "/react-portfolio/static/media/FindMeFoodBig.9fedb7d6.png",
+    "static/media/WeatherAppBig.332858d8.png": "/react-portfolio/static/media/WeatherAppBig.332858d8.png",
+    "static/media/codeQuizBig.cec55833.png": "/react-portfolio/static/media/codeQuizBig.cec55833.png",
+    "static/media/myImage.e229acbc.jpg": "/react-portfolio/static/media/myImage.e229acbc.jpg",
+    "static/media/paddock.ca12ea53.png": "/react-portfolio/static/media/paddock.ca12ea53.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.872b2f22.js",
+    "static/js/2.ff7f7962.chunk.js",
+    "static/css/main.16f1a9ad.chunk.css",
+    "static/js/main.fc8ded1e.chunk.js"
+  ]
+}
