@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.16f1a9ad.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.fc8ded1e.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.fc8ded1e.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.9011bb6f.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.d8835eff.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.d8835eff.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.7d7bffbe.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.7d7bffbe.js.map",
     "static/js/2.ff7f7962.chunk.js": "/React_Portfolio/static/js/2.ff7f7962.chunk.js",
     "static/js/2.ff7f7962.chunk.js.map": "/React_Portfolio/static/js/2.ff7f7962.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "static/css/main.16f1a9ad.chunk.css.map": "/React_Portfolio/static/css/main.16f1a9ad.chunk.css.map",
+    "static/css/main.9011bb6f.chunk.css.map": "/React_Portfolio/static/css/main.9011bb6f.chunk.css.map",
     "static/js/2.ff7f7962.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.ff7f7962.chunk.js.LICENSE.txt",
     "static/media/CPlusPlus.0eb8aa46.png": "/React_Portfolio/static/media/CPlusPlus.0eb8aa46.png",
     "static/media/DailyPlannerBig.39db0d68.png": "/React_Portfolio/static/media/DailyPlannerBig.39db0d68.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.7d7bffbe.js",
     "static/js/2.ff7f7962.chunk.js",
-    "static/css/main.16f1a9ad.chunk.css",
-    "static/js/main.fc8ded1e.chunk.js"
+    "static/css/main.9011bb6f.chunk.css",
+    "static/js/main.d8835eff.chunk.js"
   ]
 }
