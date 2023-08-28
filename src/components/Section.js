@@ -29,9 +29,10 @@ function Section1() {
             <p>  I am a Recent Graduate from Southern New Hampshire University Earning my Bachelors Degree in Computer Science with a concentration in Software Engineering. I learned languages like Java, C++, Embedded C, and Pyton before graduating Summa Cum Laude with a GPA of 3.95.  While attending SNHU, I also attended University of New Hampshire's full stack software development bootcamp where I learned the following languages, HTML, CSS, JavaScript, Graphql, and Reactjs. I'm from the United States, born in Boston MA and raised in Malden MA and current live in Salem NH. My all time favorite hobby is racing cars as well as working on cars, in the performance enhancing way, I also enjoy the causual video game whenever I can, mainly racing games. Ultimatly, I enjoy any kind of software developing, but I do prefer the more challenging tasks that stimulate the mind as well as further my knowledge. The main reason for wanting to become a programmer is that I very much enjoy technology whether is hardware or software.  I do take more of a liking to the software due to the many amazing applications that can be created.  
             </p>
 
-            <p>As of right now I am also in the process of completly updating this portfolio to better showcase my knowledge.  The new profile makes better use of react components as well as using react router.  This new page will list out projects seperated by the language used and this new portfolio will be more scalable. Here is the link to the github respository for the page once I have it deployed I will have a link to the deployed page. </p>
+            <p>As of right now I am also in the process of completly updating this portfolio to better showcase my knowledge.  The new profile makes better use of react components as well as using react router.  This new page will list out projects seperated by the language used and this new portfolio will be more scalable. Here is the link to the github respository and the Deployed page. All still in production will have updates as soon as possible. </p>
 
             <center><a href='https://github.com/coreyNance/My_Portfolio'>Updated portfolio Github(in production)</a></center>
+            <center><a href='https://coreynance.github.io/My_Portfolio/'>New portfolio Page(in production)</a></center>
         </main>
     </section>
   );
