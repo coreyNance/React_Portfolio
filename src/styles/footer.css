@@ -6,7 +6,11 @@
   body {
    font-family: Arial;
    color: rgb(255, 255, 255);
-   background-color: #000000;
+   background-image: linear-gradient(to bottom left, rgb(51, 50, 50), rgb(247, 247, 247));
+ /* height: 100%; */
+/* margin: 0; */
+ /* background-repeat: no-repeat; */
+background-attachment: fixed;
   }
   
   
@@ -27,7 +31,7 @@
   
   nav {
     padding-bottom: 0.5%;
-    border-bottom: 5px solid rgb(31, 30, 30);
+    /* border-bottom: 5px solid rgb(31, 30, 30); */
     align-items: center;
     text-align: right;
   }
@@ -83,7 +87,7 @@
   
   .right {
     flex: 70%;
-    border-left: 5px solid rgb(31, 30, 30);
+    /* border-left: 5px solid rgb(31, 30, 30); */
   }
   
   
@@ -118,7 +122,7 @@
   .container .sunsetImage img {
     display: block;
     width: 100%;
-    border: 5px solid rgb(31, 30, 30);
+    /* border: 5px solid rgb(31, 30, 30); */
   }
   
   figure img:hover {
@@ -147,7 +151,7 @@
     position: absolute;
     left: 0;
     bottom: 50px;
-    background-color: rgb(31, 30, 30);
+    /* background-color: rgb(31, 30, 30); */
     padding: 2%;
     font-size: 1rem;
   }

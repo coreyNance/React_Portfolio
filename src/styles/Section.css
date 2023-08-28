@@ -6,7 +6,7 @@
 body {
  font-family: Arial;
  color: rgb(255, 255, 255);
- background-color: #000000;
+ /* background-color: #000000; */
 }
 
 
@@ -27,7 +27,7 @@ header h1 {
 
 nav {
   padding-bottom: 0.5%;
-  border-bottom: 5px solid rgb(31, 30, 30);
+  border-bottom: 2px solid rgb(31, 30, 30);
   align-items: center;
   text-align: right;
 }
@@ -83,7 +83,7 @@ li {
 
 .right {
   flex: 70%;
-  border-left: 5px solid rgb(31, 30, 30);
+  border-left: 2px solid rgb(31, 30, 30);
 }
 
 

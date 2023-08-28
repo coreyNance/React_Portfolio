@@ -27,7 +27,7 @@ header h1 {
 
 nav {
   padding-bottom: 0.5%;
-  border-bottom: 5px solid rgb(31, 30, 30);
+  /* border-bottom: 5px solid rgb(31, 30, 30); */
   align-items: center;
   text-align: right;
 }
@@ -83,7 +83,7 @@ li {
 
 .right {
   flex: 70%;
-  border-left: 5px solid rgb(31, 30, 30);
+  /* border-left: 5px solid rgb(31, 30, 30); */
 }
 
 
@@ -118,7 +118,7 @@ li {
 .container .sunsetImage img {
   display: block;
   width: 100%;
-  border: 5px solid rgb(31, 30, 30);
+  /* border: 5px solid rgb(31, 30, 30); */
 }
 
 figure img:hover {
@@ -147,7 +147,7 @@ figure img:hover {
   position: absolute;
   left: 0;
   bottom: 50px;
-  background-color: rgb(31, 30, 30);
+  /* background-color: rgb(31, 30, 30); */
   padding: 2%;
   font-size: 1rem;
 }
